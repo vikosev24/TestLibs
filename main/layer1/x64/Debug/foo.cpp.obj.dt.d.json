@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vikosev24\\source\\repos\\main\\layer1\\foo.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\vikosev24\\source\\repos\\main\\layer1\\foo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
